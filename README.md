@@ -1,9 +1,11 @@
 # CodeClause-web-internship-project
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/284f31ac-66b8-43e0-b82c-cb7bbcb06123)
+
 **CodeClause Internship Repository**
 
 Welcome to the CodeClause Internship Repository! '🚀🚀📌📌
 
-Explore and contribute to the exciting projects undertaken by interns at CodeClause. This repository showcases the collaborative efforts of aspiring developers working on innovative solutions during their internship. From web development to machine learning, witness the talent and creativity of our interns.
+Explore and contribute to the exciting projects undertaken by interns at CodeClause. This repository showcases the collaborative efforts of aspiring developers working on innovative solutions during their internships. From web development to machine learning, we witness the talent and creativity of our interns.
 
 **Key Features:**
 - Diverse projects spanning various technologies and domains.
