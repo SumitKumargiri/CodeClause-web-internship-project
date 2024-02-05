@@ -30,3 +30,25 @@ Happy coding! 🖥️💡
 
 ------------ ✨✨🏅🏅 -----------------------
 
+
+#   ----------------   Movie Explorer System ----------------------------------
+
+#----------- Home page -----------------------------------------------------
+
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/ef12a666-cafa-4f9f-8f44-4922a1dc199b)
+
+
+#-------------- click on Orion and the Dark Hello Darkness, my new friend then go to this page. ------------------------------
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0c2a2004-caff-4e73-8bcc-276ba0f5979e)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/9a8a4ac7-62f2-40d8-80ec-a484bcb03e9e)
+
+
+
+#---------- Crime page search ---------------------------------------------
+
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/f0265c3f-8250-4f3a-a485-a55593d5118f)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0ac12d63-9f60-44a1-a466-bc3aa4b7e35f)
+
