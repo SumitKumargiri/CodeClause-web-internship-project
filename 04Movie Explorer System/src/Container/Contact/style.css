@@ -1,0 +1,35 @@
+.contactWrap{
+    background: #ffffff;
+    color: black;
+    text-align: center;
+    padding:40px 0;
+}
+.conectIcon svg {
+    width: 40px;
+    height: 40px;
+}
+.contactList {
+    margin-top: 40px;
+    text-align: left;
+}
+.contactList .list-group-item span {
+    display: inline-block;
+    vertical-align: top;
+    min-width: 170px;
+    margin-right: 20px;
+}
+.contactList .list-group-item a{
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 400;
+    color: #ff55a5;
+}
+.contactList .list-group-item {
+    background:#2b2b31;
+    color:rgba(255,255,255,0.75);
+    border-color: #000000;
+}
+.contactList .list-group-item a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
