@@ -7,14 +7,14 @@ import { BsFacebook, BsLinkedin, BsTwitter, BsStackOverflow, BsGoogle, BsGithub,
 import './style.css';
 const  ContactContainer = ()=>{
     const myData = [
-        {name:'Facebook', link:'https://www.facebook.com/rohitazadmalik/', text:'Follow to my facebook.'},
-        {name:'Linkedin', link:'https://www.linkedin.com/in/rohitazad/', text:'Follow to my linkedin.'},
-        {name:'Twitter', link:'https://twitter.com/rohitazad', text:'Follow to my twitter.'},
-        {name:'StackOverFlow', link:'https://stackoverflow.com/users/1365428/rohit-azad-malik', text:'Check out to my stackoverflow account.'},
-        {name:'Blog', link:'https://rohitazadmalik.blogspot.com/', text:'Follow to my blog.'},
-        {name:'GitHub', link:'https://github.com/rohitazad', text:'Follow to my github account.'},
-        {name:'YouTube', link:'https://www.youtube.com/c/AzadMalikRohit', text:'Follow to my youtube channel.'},
-        {name:'Email', link:'mailto:learncodingwithbhai@gmail.com',  text:'write to me a mail'}
+        {name:'Facebook', link:'https://www.facebook.com/aaditya.goshwami.39', text:'Follow to my facebook.'},
+        {name:'Linkedin', link:'https://www.linkedin.com/in/sumit-kumar-giri-524718214', text:'Follow to my linkedin.'},
+        {name:'Twitter', link:'#', text:'Follow to my twitter.'},
+        {name:'StackOverFlow', link:'#', text:'Check out to my stackoverflow account.'},
+        {name:'Blog', link:'#', text:'Follow to my blog.'},
+        {name:'GitHub', link:'https://github.com/SumitKumargiri', text:'Follow to my github account.'},
+        {name:'YouTube', link:'https://www.youtube.com/@SKtutorial15434', text:'Follow to my youtube channel.'},
+        {name:'Email', link:'#',  text:'write to me a mail'}
     ]
     return (
         <div className='contactWrap'>
@@ -29,37 +29,37 @@ const  ContactContainer = ()=>{
                 <Col className='conectIcon'>
                     <ul className='socialIconsList'>
                         <li>
-                            <a rel="noreferrer" href="https://www.facebook.com/rohitazadmalik/" target="_blank">
+                            <a rel="noreferrer" href="https://www.facebook.com/aaditya.goshwami.39" target="_blank">
                                 <BsFacebook />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://www.linkedin.com/in/rohitazad/" target="_blank">
+                            <a rel="noreferrer" href="https://www.linkedin.com/in/sumit-kumar-giri-524718214" target="_blank">
                                 <BsLinkedin />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://twitter.com/rohitazad" target="_blank">
+                            <a rel="noreferrer" href="#" target="_blank">
                                 <BsTwitter />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://stackoverflow.com/users/1365428/rohit-azad-malik" target="_blank">
+                            <a rel="noreferrer" href="#" target="_blank">
                                 <BsStackOverflow />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://rohitazadmalik.blogspot.com/" target="_blank">
+                            <a rel="noreferrer" href="#" target="_blank">
                                 <BsGoogle />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://github.com/rohitazad" target="_blank">
+                            <a rel="noreferrer" href="https://github.com/SumitKumargiri" target="_blank">
                                 <BsGithub />
                             </a>
                         </li>
                         <li>
-                            <a rel="noreferrer" href="https://www.youtube.com/c/AzadMalikRohit" target="_blank">
+                            <a rel="noreferrer" href="https://www.youtube.com/@SKtutorial15434" target="_blank">
                                 <BsYoutube />
                             </a>
                         </li> 
