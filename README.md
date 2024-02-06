@@ -30,6 +30,16 @@ Happy coding! 🖥️💡
 
 ------------ ✨✨🏅🏅 -----------------------
 
+# ------------------  Online Quiz Game  -----------------------------------
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/59ab76f1-a31f-4732-9907-c6c02b488140)
+
+
+
+# ------------------  Github Explorer  --------------------------------------
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0eaf2e95-5225-45d4-881b-9193f678789c)
+
 
 #   ----------------   Movie Explorer System ----------------------------------
 
