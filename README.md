@@ -1,4 +1,4 @@
-![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/d5de3f92-49e4-48fb-827e-70212c85abd9)# CodeClause-web-internship-project
+# CodeClause-web-internship-project
 ![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/284f31ac-66b8-43e0-b82c-cb7bbcb06123)
 
 **CodeClause Internship Repository**
