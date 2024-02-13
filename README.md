@@ -1,4 +1,4 @@
-# CodeClause-web-internship-project
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/d5de3f92-49e4-48fb-827e-70212c85abd9)# CodeClause-web-internship-project
 ![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/284f31ac-66b8-43e0-b82c-cb7bbcb06123)
 
 **CodeClause Internship Repository**
@@ -39,6 +39,20 @@ Happy coding! 🖥️💡
 # ------------------ 02.Github Explorer (Project ID - #CC9901)  --------------------------------------
 
 ![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0eaf2e95-5225-45d4-881b-9193f678789c)
+
+
+# ------------------ 03.Travel App (Project ID - #CC9902)  --------------------------------------
+
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/f9b70605-a838-49d7-9f1f-dcca8b3262e7)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/e0c15af6-0ec7-49c2-b950-3086be40130b)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/c7071a62-9f6c-42ff-b842-e2974dc72d96)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0487f943-1542-40cd-96cd-a4b982446085)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0ce25dfe-2841-4f2c-afb0-9781eea07139)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/2b9ee0e4-451e-40a5-a977-8195e3c153bf)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/ebad760f-d5ff-40ad-abb8-dc93edc1fa6b)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/0dbf03bd-6400-4104-bd99-af513c174917)
+![image](https://github.com/SumitKumargiri/CodeClause-web-internship-project/assets/96234273/19ec95f0-0567-48b1-b35f-70cd56ad2968)
+
 
 
 #   ----------------  04.Movie Explorer System (Project ID - #CC9903) ----------------------------------
